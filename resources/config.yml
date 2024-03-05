@@ -1,0 +1,35 @@
+settings:
+  prefix: '$'
+  status: "games! | {prefix}help"
+  cmd_cooldown: 3
+  default-role: 0000000000000000000
+  music-queue-limit: 8  # Maximum queue size
+channel-ids:
+  welcome: 0000000000000000000
+welcome:
+  title: "We hope you enjoy your stay!"
+  description: "We prioritize user experience and aim to make new members feel welcome to our community! 
+  Familiarize yourself in the server and socialise within the community and just know that our staff are 
+  just one message away if you need any assistance!"
+reaction-roles:
+  message-id: 0000000000000000000
+  role-ids:
+    news: 0000000000000000000
+    announcements: 0000000000000000000
+    job-offers: 0000000000000000000
+  verify:
+    message-id: 0000000000000000000
+    default-role: 0000000000000000000
+suggestions:
+  cooldown: 8
+  submission-limit: 3
+  staff-prefix: "!"  # Used for staff suggestions
+  channels:
+    validation: 0000000000000000000 # Where suggestions are validated
+    community: 0000000000000000000 # Community suggestion channel
+    staff: 0000000000000000000 # Staff suggestion channel
+tickets:
+  category: 0000000000000000000 # Where channels will be created under which category
+punishments:
+  log-channel: 0000000000000000000
+  mute-role: 0000000000000000000 # Bot does not alter any permissions to the role

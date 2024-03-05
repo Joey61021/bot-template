@@ -1,0 +1,65 @@
+{
+  "generic":
+  {
+    "cmd-cooldown": "Woah, slow down! You're on cooldown for another {time}s!",
+    "cmd-no-permission": "Woah back up! You don't have permission.",
+    "invalid-usage": "Invalid usage, please use {usage}",
+    "user-not-found": "Sorry, but this user could not be found.",
+    "invalid-time-unit": "Please ensure the value is a valid time unit (s|m|h|d)",
+    "cannot-perform-to-higher": "You cannot perform this action to someone higher than yourself!"
+  },
+  "music": {
+    "cmd-already-connected": "Already connected to voice channel",
+    "could-not-connect": "Could not connect to the voice channel",
+    "not-in-vc": "You're not in a voice channel!",
+    "connected": ":arrow_right: Connected to channel",
+    "disconnected": ":arrow_right: Disconnected from channel",
+    "resumed": ":arrow_forward: {song} resumed!",
+    "request-too-short": "Please enter a request that is over 3 characters!",
+    "cannot-find-song": "Could not be found, please try a different keyword!",
+    "cannot-play-live": "Sorry, but I cannot play livestreams!",
+    "loop-on": "🔁 Loop enabled!",
+    "loop-off": "🔁 Loop disabled!",
+    "play-song": "Please play a song first!",
+    "paused": ":pause_button: Song paused!",
+    "already-playing": "Music is already playing!",
+    "skipped": ":arrow_right: Song skipped!",
+    "none-to-skip": "There is no music to skip!",
+    "queue-empty": "No music in queue!",
+    "queue-cleared": ":broom: Music queue cleared!",
+    "queue-size-limited": "Sorry, but the queue is too full!",
+    "none-playing": "There is no song currently playing!"
+  },
+  "suggestions":
+  {
+    "approved": "**SUGGESTION APPROVED!**\n\nThank you for taking the time to make a suggestion, your suggestion can now be voted on by our community.",
+    "denied": "**SUGGESTION DENIED**\n\nThank you for taking the time to make a suggestion, but unfortunately it has been denied by our review team.",
+    "submitted": "Your suggestion has been submitted for validation!",
+    "max-char": "Sorry, but suggestions must be between 3 and 250 characters!",
+    "limit-reached": "You already have {limit} submissions awaiting validation!"
+  },
+  "close":
+  {
+    "not-a-ticket": "Sorry, but this channel is not a ticket!"
+  },
+  "punishments":
+  {
+    "cannot-punish-self": "Sorry, but you cannot punish yourself!",
+    "unable-to-punish": "Sorry, but I was unable to punish this user!",
+    "warn": "{user} has been warned for {reason}!",
+    "kick": "{user} has been kicked for {reason}!",
+    "ban": "{user} has been banned for {reason}!",
+    "temp-ban": "{user} has been temp banned for {reason} for {time}!",
+    "unban": "{user} has been unbanned!",
+    "mute": "{user} has been muted for {reason}!",
+    "already-muted": "Sorry, but this user is already muted!",
+    "temp-mute": "{user} has been temp muted for {reason} for {time}!",
+    "unmute": "{user} has been unmuted!",
+    "not-muted": "Sorry, but this user is not muted!",
+    "no-history": "Sorry, but this user has no history to display!"
+  },
+  "setup":
+  {
+    "cmd-type-not-found": "Sorry, but this function message could not be found!"
+  }
+}

@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a0241a4d-7dd3-4e35-9ac0-42d7f7740da3" name="Changes" comment="Add suggestion to help command" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2JTnjMQj1cOGrPuRGkEI9CMDCw4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Joseph/OneDrive/Desktop/Aurora/Projects/AuroraBot/Bot&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;GitStage.ChangesTree.GroupingKeys&quot;: [
+      &quot;directory&quot;,
+      &quot;module&quot;,
+      &quot;repository&quot;
+    ]
+  }
+}</component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="InnateBot" is-module-sdk="true" working-directory="$PROJECT_DIR$">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="InnateBot" />
+        <option name="myWorkingDirectory" value="$PROJECT_DIR$" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Joseph\OneDrive\Desktop\Projects\InnateGames\InnateBot\cogs\listeners" />
+      <recent name="C:\Users\Joseph\OneDrive\Desktop\Projects\InnateGames\InnateBot\cogs\commands\user" />
+      <recent name="C:\Users\Joseph\OneDrive\Desktop\Projects\InnateGames\InnateBot\managers" />
+      <recent name="C:\Users\Joseph\OneDrive\Desktop\Projects\InnateGames\InnateBot" />
+      <recent name="C:\Users\Joseph\OneDrive\Desktop\Projects\InnateGames\InnateBot\cogs\commands\admin" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Joseph\OneDrive\Desktop\Projects\InnateGames\InnateBot\managers\messages" />
+      <recent name="C:\Users\Joseph\OneDrive\Desktop\Projects\InnateGames\InnateBot\utilities" />
+      <recent name="C:\Users\jogam\OneDrive\Desktop\Projects\InnateGames\InnateBot\cogs\commands\admin\setup" />
+      <recent name="C:\Users\Joseph\OneDrive\Desktop\Projects\InnateGames\InnateBot\Python\InnateBot\cogs\commands\user" />
+      <recent name="C:\Users\Joseph\OneDrive\Desktop\Projects\InnateGames\InnateBot\Python\InnateBot\cogs\commands\admin" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="app" type="PythonConfigurationType" factoryName="Python">
+      <module name="AuroraBot" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="net.ashald.envfile">
+        <option name="IS_ENABLED" value="false" />
+        <option name="IS_SUBST" value="false" />
+        <option name="IS_PATH_MACRO_SUPPORTED" value="false" />
+        <option name="IS_IGNORE_MISSING_FILES" value="false" />
+        <option name="IS_ENABLE_EXPERIMENTAL_INTEGRATIONS" value="false" />
+        <ENTRIES>
+          <ENTRY IS_ENABLED="true" PARSER="runconfig" IS_EXECUTABLE="false" />
+        </ENTRIES>
+      </EXTENSION>
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Joseph\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a0241a4d-7dd3-4e35-9ac0-42d7f7740da3" name="Changes" comment="" />
+      <created>1672111074673</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1672111074673</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Move to git! Woohoo!">
+      <created>1679294163458</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1679294163458</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Add admin poll command">
+      <created>1679302371046</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1679302371046</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Add basic ban command">
+      <created>1679808761281</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1679808761281</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Add basic ban command">
+      <created>1679808796247</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1679808796247</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Fix utils import path">
+      <created>1683031736183</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1683031736183</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Make welcome message configurable">
+      <created>1683033456639</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1683033456639</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Assign bot token">
+      <created>1683125191716</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1683125191716</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Change bot token">
+      <created>1683125544238</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1683125544238</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Correct channel ids and role ids">
+      <created>1683126621695</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1683126621695</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Fix welcome message not sending">
+      <created>1683127343628</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1683127343628</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Add the latest news command and add a footer to embeds">
+      <created>1683177405888</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1683177405888</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Add the latest news command and add a footer to embeds">
+      <created>1683250841454</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1683250841454</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Project revamp">
+      <created>1695009916626</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1695009916626</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Music bug fixes">
+      <created>1695091404739</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1695091404739</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Fix loop function">
+      <created>1695095530682</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1695095530682</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Revamp bot">
+      <created>1698743848126</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1698743848126</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Add avatar cmd">
+      <created>1698744223724</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1698744223724</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Global name to name">
+      <created>1698744465580</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1698744465580</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Add - Bot will leave voice channel if all users leave">
+      <created>1700534821585</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1700534821585</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Add verification system">
+      <created>1708287126335</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1708287126335</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Change setup usage">
+      <created>1708289876837</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1708289876837</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Fix setup command">
+      <created>1708291607673</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1708291607673</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Enhance currently playing menu">
+      <created>1709539105878</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1709539105878</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Fix time remaining inaccurate after being out of idle">
+      <created>1709541554745</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1709541554745</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Fix music bug when disconnected">
+      <created>1709549366618</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1709549366618</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Add punishments and message configuration">
+      <created>1709553637700</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1709553637701</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Remove Eddy command">
+      <created>1709594279216</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1709594279216</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Add suggestions">
+      <created>1709597685435</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1709597685435</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Fix minor bugs">
+      <created>1709598715983</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1709598715983</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Fix suggestion bugs">
+      <created>1709601323501</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1709601323501</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Add suggestion to help command">
+      <created>1709601369863</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1709601369863</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="Make welcome message configurable" />
+    <MESSAGE value="Assign bot token" />
+    <MESSAGE value="Change bot token" />
+    <MESSAGE value="Correct channel ids and role ids" />
+    <MESSAGE value="Fix welcome message not sending" />
+    <MESSAGE value="Add the latest news command and add a footer to embeds" />
+    <MESSAGE value="Project revamp" />
+    <MESSAGE value="Music bug fixes" />
+    <MESSAGE value="Fix loop function" />
+    <MESSAGE value="Revamp bot" />
+    <MESSAGE value="Add avatar cmd" />
+    <MESSAGE value="Global name to name" />
+    <MESSAGE value="Add - Bot will leave voice channel if all users leave" />
+    <MESSAGE value="Add verification system" />
+    <MESSAGE value="Change setup usage" />
+    <MESSAGE value="Fix setup command" />
+    <MESSAGE value="Enhance currently playing menu" />
+    <MESSAGE value="Fix time remaining inaccurate after being out of idle" />
+    <MESSAGE value="Fix music bug when disconnected" />
+    <MESSAGE value="Add punishments and message configuration" />
+    <MESSAGE value="Remove Eddy command" />
+    <MESSAGE value="Add suggestions" />
+    <MESSAGE value="Fix minor bugs" />
+    <MESSAGE value="Fix suggestion bugs" />
+    <MESSAGE value="Add suggestion to help command" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add suggestion to help command" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+</project>
