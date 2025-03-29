@@ -8,28 +8,6 @@
     "invalid-time-unit": "Please ensure the value is a valid time unit (s|m|h|d)",
     "cannot-perform-to-higher": "You cannot perform this action to someone higher than yourself!"
   },
-  "music": {
-    "cmd-already-connected": "Already connected to voice channel",
-    "could-not-connect": "Could not connect to the voice channel",
-    "not-in-vc": "You're not in a voice channel!",
-    "connected": ":arrow_right: Connected to channel",
-    "disconnected": ":arrow_right: Disconnected from channel",
-    "resumed": ":arrow_forward: {song} resumed!",
-    "request-too-short": "Please enter a request that is over 3 characters!",
-    "cannot-find-song": "Could not be found, please try a different keyword!",
-    "cannot-play-live": "Sorry, but I cannot play livestreams!",
-    "loop-on": "🔁 Loop enabled!",
-    "loop-off": "🔁 Loop disabled!",
-    "play-song": "Please play a song first!",
-    "paused": ":pause_button: Song paused!",
-    "already-playing": "Music is already playing!",
-    "skipped": ":arrow_right: Song skipped!",
-    "none-to-skip": "There is no music to skip!",
-    "queue-empty": "No music in queue!",
-    "queue-cleared": ":broom: Music queue cleared!",
-    "queue-size-limited": "Sorry, but the queue is too full!",
-    "none-playing": "There is no song currently playing!"
-  },
   "suggestions":
   {
     "approved": "**SUGGESTION APPROVED!**\n\nThank you for taking the time to make a suggestion, your suggestion can now be voted on by our community.",

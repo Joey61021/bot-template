@@ -14,7 +14,6 @@ class HelpCmd(commands.Cog):
         self.bot = bot
 
         self.commands = [
-            ('music', 'Put on some beats!'),
             ('ping', 'Sends the bots ping!'),
             ('nerd <user>', 'Nerdify someone!'),
             ('random <num 1> <num 2>', 'Generates a random number within the range provided!'),

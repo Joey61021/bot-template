@@ -19,28 +19,6 @@ class Message(Enum):
     INVALID_TIME_UNIT = ['generic', 'invalid-time-unit']
     CANNOT_PERFORM_TO_HIGHER = ['generic', 'cannot-perform-to-higher']
 
-    # Music
-    CMD_MUSIC_ALREADY_CONNECTED = ['music', 'already-connected']
-    CMD_MUSIC_COULD_NOT_CONNECT = ['music', 'could-not-connect']
-    CMD_MUSIC_NOT_IN_VC = ['music', 'not-in-vc']
-    CMD_MUSIC_CONNECTED = ['music', 'connected']
-    CMD_MUSIC_DISCONNECTED = ['music', 'disconnected']
-    CMD_MUSIC_RESUMED = ['music', 'resumed']
-    CMD_MUSIC_REQUEST_TOO_SHORT = ['music', 'request-too-short']
-    CMD_MUSIC_CANNOT_FIND_SONG = ['music', 'cannot-find-song']
-    CMD_MUSIC_CANNOT_PLAY_LIVE = ['music', 'cannot-play-live']
-    CMD_MUSIC_LOOP_ON = ['music', 'loop-on']
-    CMD_MUSIC_LOOP_OFF = ['music', 'loop-off']
-    CMD_MUSIC_PLAY_SONG = ['music', 'play-song']
-    CMD_MUSIC_PAUSED = ['music', 'paused']
-    CMD_MUSIC_ALREADY_PLAYING = ['music', 'already-playing']
-    CMD_MUSIC_SKIPPED = ['music', 'skipped']
-    CMD_MUSIC_NONE_TO_SKIP = ['music', 'none-to-skip']
-    CMD_MUSIC_QUEUE_EMPTY = ['music', 'queue-empty']
-    CMD_MUSIC_QUEUE_CLEARED = ['music', 'queue-cleared']
-    CMD_MUSIC_QUEUE_SIZE_LIMITED = ['music', 'queue-size-limited']
-    CMD_MUSIC_NONE_PLAYING = ['music', 'none-playing']
-
     # Suggestions
     APPROVED = ['suggestions', 'approved']
     DENIED = ['suggestions', 'denied']
