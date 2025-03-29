@@ -6,7 +6,7 @@ config = yaml.safe_load(open('resources/config.yml', 'r'))
 # Bot
 name = "AuroraBot"
 version = "1.0.0"
-author = "Texxyy"
+author = "tex"
 
 # Settings
 colour = discord.Colour.dark_blue()

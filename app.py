@@ -55,8 +55,8 @@ async def on_ready():
     # Startup info messages
     logger.info("\nBot info:\n"
                 f"   Prefix: {program.prefix}\n"
-                f"   Username: {bot.user.name}\n"
-                f"   Author: {program.author}\n")
+                f"   Author: {program.author}\n"
+                f"   Username: {bot.user.name}\n")
     logger.info(f"Version info:\n"
                 f"   Bot Version: {program.version}\n"
                 f"   Python version: {platform.version()}\n"
